@@ -1,0 +1,12 @@
+test
+1-In the following examples, input and output are distinguished
+2-by the presence or absence of prompts (>>> and …): to repeat the example,
+3-you must type everything after the prompt, when the prompt appears;
+4-lines that do not begin with a prompt are output from the interpreter.
+5-Note that a secondary prompt on a line by itself in an example means you must type
+6-a blank line; this is used to end a multi-line command.
+7-You can toggle the display of prompts and output by clicking on >>>
+8-in the upper-right corner of an example box.
+9-If you hide the prompts and output for an example,
+10-then you can easily copy and paste the input lines into your interpreter.
+12-Many of the examples in this manual, even those entered at the interactive prompt, include comments. Comments in Python start with the hash character, #, and extend to the end of the physical line. A comment may appear at the start of a line or following whitespace or code, but not within a string literal. A hash character within a string literal is just a hash character. Since comments are to clarify code and are not interpreted by Python, they may be omitted when typing in examples.
